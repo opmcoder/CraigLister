@@ -1,6 +1,8 @@
 CraigLister forked on 10/04/2018
 ===========
 
+_____This is a work in progress__
+
 This program will repeatedly post your craigslist ads every 72 hours and auto approve them.
 
 It is useful when you want something to sell put you don't want to repeatedly post them.
